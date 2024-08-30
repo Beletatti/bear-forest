@@ -28,7 +28,7 @@ if esquerda_direita == "direita":
         elif porta == "azul":
             print("Você caiu em um calabouço e ficou preso até morrer de fome. Game over!")
         elif porta == "amarela":
-            print("Bom trabalho! Você achou um camiho para escapar da floresta.")
+            print("Bom trabalho! Você achou um caminho para escapar da floresta.")
         else:
             print("Você escolheu um caminho que não existe e caiu no vazio. Até nunca mais!")
     else:
